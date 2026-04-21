@@ -26,13 +26,14 @@ A simple and interactive Tic Tac Toe game built using Flutter with a clean and r
 ## ⚙️ Installation
 
 bash
-git clone https://github.com/your-username/flutter-tic-tac-toe.git
-cd flutter-tic-tac-toe
-flutter pub get
-flutter run
+- git clone https://github.com/your-username/flutter-tic-tac-toe.git
+- cd flutter-tic-tac-toe
+- flutter pub get
+- flutter run
 
+---
 
-This project is a starting point for a Flutter application.
+##This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
