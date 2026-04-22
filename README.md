@@ -18,8 +18,14 @@ A simple and interactive Tic Tac Toe game built using Flutter with a clean and r
 
 ---
 
-## 📸 Screenshots
-(Add your screenshots here)
+<h2 align="center">🚀 App Preview</h2>
+
+<p align="center">
+  <img src="App Screenshots/AppImage1.jpeg" width="200"/>
+  <img src="App Screenshots/AppImage2.jpeg" width="200"/>
+  <img src="App Screenshots/AppImage3.jpeg" width="200"/>
+  <img src="App Screenshots/AppImage4.jpeg" width="200"/>
+</p>
 
 ---
 
